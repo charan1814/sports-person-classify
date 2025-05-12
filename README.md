@@ -29,6 +29,12 @@ dataset/
 - Confusion Matrix:![Alt Text](confusionmatrix.png)
 - Classification Report: Precision, Recall, F1-score per class
 
+# 📸 Sample Output
+
+Here is an example of the model's prediction on a test image:
+
+![output sample](output.png)
+
 ## 🚀 How to Run
 
 1. Clone the repository:
