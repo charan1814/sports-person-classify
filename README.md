@@ -26,7 +26,7 @@ dataset/
 
 ## 📈 Results
 - Model Accuracy: 80.96%
-- Confusion Matrix://github.com/charan1814/sports-person-classify/blob/487cf347900e4dfca8281dda89c1c02a84820802/Screenshot%20(40).png
+- Confusion Matrix:![Alt Text](Screenshot(40).png)
 - Classification Report: Precision, Recall, F1-score per class
 
 ## 🚀 How to Run
