@@ -26,7 +26,7 @@ dataset/
 
 ## 📈 Results
 - Model Accuracy: 80.96%
-- Confusion Matrix:![Alt Text](Screenshot(40).png)
+- Confusion Matrix:![Alt Text](Screenshot (40).png)
 - Classification Report: Precision, Recall, F1-score per class
 
 ## 🚀 How to Run
