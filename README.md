@@ -1,8 +1,7 @@
 # Sports Person Classification using Machine Learning
 
 ## 🧩 Problem Statement
-The goal of this project is to build a machine learning model to classify images of sports persons based on the sport they play (e.g., cricket, tennis, football, etc.).
-
+The goal of this project is to build a machine learning model to classify images of sports persons based on their faces by extracting facial features using opencvcascades.
 ## 📁 Dataset
 The dataset contains labeled images of sports persons across different categories.
 
